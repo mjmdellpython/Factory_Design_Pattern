@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.exe
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.deps.json
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.dll
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\ref\factoryDesignPattern.dll
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\bin\Debug\net5.0\factoryDesignPattern.pdb
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.dll
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\ref\factoryDesignPattern.dll
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.pdb
+C:\Users\mjmde\Desktop\vs\testC#\factoryDesignPattern\obj\Debug\net5.0\factoryDesignPattern.genruntimeconfig.cache
